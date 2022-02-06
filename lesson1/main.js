@@ -59,7 +59,7 @@
 //         результат помістіть у змінну v.
 //let heightC = 10;
 //let dC = 4;
-//const pi = 3.14;
+//let PI = 3.14;
 //let r = dC/2;
 //let v = pi*r*r*heightC;
 //console.log(v);
